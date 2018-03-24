@@ -1,0 +1,1404 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'version',
+1 verbose cli   'patch' ]
+2 info using npm@3.10.10
+3 info using node@v6.10.2
+4 info git [ 'status', '--porcelain' ]
+5 verbose stack Error: Git working directory not clean.
+5 verbose stack A  index.html
+5 verbose stack A  index.js
+5 verbose stack A  node_modules/.bin/mime
+5 verbose stack A  node_modules/.bin/mime.cmd
+5 verbose stack A  node_modules/accepts/HISTORY.md
+5 verbose stack A  node_modules/accepts/LICENSE
+5 verbose stack A  node_modules/accepts/README.md
+5 verbose stack A  node_modules/accepts/index.js
+5 verbose stack A  node_modules/accepts/package.json
+5 verbose stack A  node_modules/after/.npmignore
+5 verbose stack A  node_modules/after/.travis.yml
+5 verbose stack A  node_modules/after/LICENCE
+5 verbose stack A  node_modules/after/README.md
+5 verbose stack A  node_modules/after/index.js
+5 verbose stack A  node_modules/after/package.json
+5 verbose stack A  node_modules/after/test/after-test.js
+5 verbose stack A  node_modules/array-flatten/LICENSE
+5 verbose stack A  node_modules/array-flatten/README.md
+5 verbose stack A  node_modules/array-flatten/array-flatten.js
+5 verbose stack A  node_modules/array-flatten/package.json
+5 verbose stack A  node_modules/arraybuffer.slice/.npmignore
+5 verbose stack A  node_modules/arraybuffer.slice/LICENCE
+5 verbose stack A  node_modules/arraybuffer.slice/Makefile
+5 verbose stack A  node_modules/arraybuffer.slice/README.md
+5 verbose stack A  node_modules/arraybuffer.slice/index.js
+5 verbose stack A  node_modules/arraybuffer.slice/package.json
+5 verbose stack A  node_modules/arraybuffer.slice/test/slice-buffer.js
+5 verbose stack A  node_modules/async-limiter/.travis.yml
+5 verbose stack A  node_modules/async-limiter/LICENSE
+5 verbose stack A  node_modules/async-limiter/coverage/coverage.json
+5 verbose stack A  node_modules/async-limiter/coverage/lcov-report/async-throttle/index.html
+5 verbose stack A  node_modules/async-limiter/coverage/lcov-report/async-throttle/index.js.html
+5 verbose stack A  node_modules/async-limiter/coverage/lcov-report/base.css
+5 verbose stack A  node_modules/async-limiter/coverage/lcov-report/index.html
+5 verbose stack A  node_modules/async-limiter/coverage/lcov-report/prettify.css
+5 verbose stack A  node_modules/async-limiter/coverage/lcov-report/prettify.js
+5 verbose stack A  node_modules/async-limiter/coverage/lcov-report/sort-arrow-sprite.png
+5 verbose stack A  node_modules/async-limiter/coverage/lcov-report/sorter.js
+5 verbose stack A  node_modules/async-limiter/coverage/lcov.info
+5 verbose stack A  node_modules/async-limiter/index.js
+5 verbose stack A  node_modules/async-limiter/package.json
+5 verbose stack A  node_modules/async-limiter/readme.md
+5 verbose stack A  node_modules/backo2/.npmignore
+5 verbose stack A  node_modules/backo2/History.md
+5 verbose stack A  node_modules/backo2/Makefile
+5 verbose stack A  node_modules/backo2/Readme.md
+5 verbose stack A  node_modules/backo2/component.json
+5 verbose stack A  node_modules/backo2/index.js
+5 verbose stack A  node_modules/backo2/package.json
+5 verbose stack A  node_modules/backo2/test/index.js
+5 verbose stack A  node_modules/base64-arraybuffer/.npmignore
+5 verbose stack A  node_modules/base64-arraybuffer/.travis.yml
+5 verbose stack A  node_modules/base64-arraybuffer/LICENSE-MIT
+5 verbose stack A  node_modules/base64-arraybuffer/README.md
+5 verbose stack A  node_modules/base64-arraybuffer/lib/base64-arraybuffer.js
+5 verbose stack A  node_modules/base64-arraybuffer/package.json
+5 verbose stack A  node_modules/base64id/.npmignore
+5 verbose stack A  node_modules/base64id/LICENSE
+5 verbose stack A  node_modules/base64id/README.md
+5 verbose stack A  node_modules/base64id/lib/base64id.js
+5 verbose stack A  node_modules/base64id/package.json
+5 verbose stack A  node_modules/better-assert/.npmignore
+5 verbose stack A  node_modules/better-assert/History.md
+5 verbose stack A  node_modules/better-assert/Makefile
+5 verbose stack A  node_modules/better-assert/Readme.md
+5 verbose stack A  node_modules/better-assert/example.js
+5 verbose stack A  node_modules/better-assert/index.js
+5 verbose stack A  node_modules/better-assert/package.json
+5 verbose stack A  node_modules/blob/.npmignore
+5 verbose stack A  node_modules/blob/.zuul.yml
+5 verbose stack A  node_modules/blob/Makefile
+5 verbose stack A  node_modules/blob/README.md
+5 verbose stack A  node_modules/blob/index.js
+5 verbose stack A  node_modules/blob/package.json
+5 verbose stack A  node_modules/blob/test/index.js
+5 verbose stack A  node_modules/callsite/.npmignore
+5 verbose stack A  node_modules/callsite/History.md
+5 verbose stack A  node_modules/callsite/Makefile
+5 verbose stack A  node_modules/callsite/Readme.md
+5 verbose stack A  node_modules/callsite/index.js
+5 verbose stack A  node_modules/callsite/package.json
+5 verbose stack A  node_modules/component-bind/.npmignore
+5 verbose stack A  node_modules/component-bind/History.md
+5 verbose stack A  node_modules/component-bind/Makefile
+5 verbose stack A  node_modules/component-bind/Readme.md
+5 verbose stack A  node_modules/component-bind/component.json
+5 verbose stack A  node_modules/component-bind/index.js
+5 verbose stack A  node_modules/component-bind/package.json
+5 verbose stack A  node_modules/component-emitter/History.md
+5 verbose stack A  node_modules/component-emitter/LICENSE
+5 verbose stack A  node_modules/component-emitter/Readme.md
+5 verbose stack A  node_modules/component-emitter/index.js
+5 verbose stack A  node_modules/component-emitter/package.json
+5 verbose stack A  node_modules/component-inherit/.npmignore
+5 verbose stack A  node_modules/component-inherit/History.md
+5 verbose stack A  node_modules/component-inherit/Makefile
+5 verbose stack A  node_modules/component-inherit/Readme.md
+5 verbose stack A  node_modules/component-inherit/component.json
+5 verbose stack A  node_modules/component-inherit/index.js
+5 verbose stack A  node_modules/component-inherit/package.json
+5 verbose stack A  node_modules/component-inherit/test/inherit.js
+5 verbose stack A  node_modules/content-disposition/HISTORY.md
+5 verbose stack A  node_modules/content-disposition/LICENSE
+5 verbose stack A  node_modules/content-disposition/README.md
+5 verbose stack A  node_modules/content-disposition/index.js
+5 verbose stack A  node_modules/content-disposition/package.json
+5 verbose stack A  node_modules/content-type/HISTORY.md
+5 verbose stack A  node_modules/content-type/LICENSE
+5 verbose stack A  node_modules/content-type/README.md
+5 verbose stack A  node_modules/content-type/index.js
+5 verbose stack A  node_modules/content-type/package.json
+5 verbose stack A  node_modules/cookie-signature/.npmignore
+5 verbose stack A  node_modules/cookie-signature/History.md
+5 verbose stack A  node_modules/cookie-signature/Readme.md
+5 verbose stack A  node_modules/cookie-signature/index.js
+5 verbose stack A  node_modules/cookie-signature/package.json
+5 verbose stack A  node_modules/cookie/HISTORY.md
+5 verbose stack A  node_modules/cookie/LICENSE
+5 verbose stack A  node_modules/cookie/README.md
+5 verbose stack A  node_modules/cookie/index.js
+5 verbose stack A  node_modules/cookie/package.json
+5 verbose stack A  node_modules/debug/.coveralls.yml
+5 verbose stack A  node_modules/debug/.eslintrc
+5 verbose stack A  node_modules/debug/.npmignore
+5 verbose stack A  node_modules/debug/.travis.yml
+5 verbose stack A  node_modules/debug/CHANGELOG.md
+5 verbose stack A  node_modules/debug/LICENSE
+5 verbose stack A  node_modules/debug/Makefile
+5 verbose stack A  node_modules/debug/README.md
+5 verbose stack A  node_modules/debug/bower.json
+5 verbose stack A  node_modules/debug/component.json
+5 verbose stack A  node_modules/debug/karma.conf.js
+5 verbose stack A  node_modules/debug/node.js
+5 verbose stack A  node_modules/debug/package.json
+5 verbose stack A  node_modules/debug/src/browser.js
+5 verbose stack A  node_modules/debug/src/debug.js
+5 verbose stack A  node_modules/debug/src/index.js
+5 verbose stack A  node_modules/debug/src/node.js
+5 verbose stack A  node_modules/depd/History.md
+5 verbose stack A  node_modules/depd/LICENSE
+5 verbose stack A  node_modules/depd/Readme.md
+5 verbose stack A  node_modules/depd/index.js
+5 verbose stack A  node_modules/depd/lib/browser/index.js
+5 verbose stack A  node_modules/depd/lib/compat/callsite-tostring.js
+5 verbose stack A  node_modules/depd/lib/compat/event-listener-count.js
+5 verbose stack A  node_modules/depd/lib/compat/index.js
+5 verbose stack A  node_modules/depd/package.json
+5 verbose stack A  node_modules/destroy/LICENSE
+5 verbose stack A  node_modules/destroy/README.md
+5 verbose stack A  node_modules/destroy/index.js
+5 verbose stack A  node_modules/destroy/package.json
+5 verbose stack A  node_modules/ee-first/LICENSE
+5 verbose stack A  node_modules/ee-first/README.md
+5 verbose stack A  node_modules/ee-first/index.js
+5 verbose stack A  node_modules/ee-first/package.json
+5 verbose stack A  node_modules/encodeurl/HISTORY.md
+5 verbose stack A  node_modules/encodeurl/LICENSE
+5 verbose stack A  node_modules/encodeurl/README.md
+5 verbose stack A  node_modules/encodeurl/index.js
+5 verbose stack A  node_modules/encodeurl/package.json
+5 verbose stack A  node_modules/engine.io-client/LICENSE
+5 verbose stack A  node_modules/engine.io-client/README.md
+5 verbose stack A  node_modules/engine.io-client/engine.io.js
+5 verbose stack A  node_modules/engine.io-client/lib/index.js
+5 verbose stack A  node_modules/engine.io-client/lib/socket.js
+5 verbose stack A  node_modules/engine.io-client/lib/transport.js
+5 verbose stack A  node_modules/engine.io-client/lib/transports/index.js
+5 verbose stack A  node_modules/engine.io-client/lib/transports/polling-jsonp.js
+5 verbose stack A  node_modules/engine.io-client/lib/transports/polling-xhr.js
+5 verbose stack A  node_modules/engine.io-client/lib/transports/polling.js
+5 verbose stack A  node_modules/engine.io-client/lib/transports/websocket.js
+5 verbose stack A  node_modules/engine.io-client/lib/xmlhttprequest.js
+5 verbose stack A  node_modules/engine.io-client/node_modules/debug/.coveralls.yml
+5 verbose stack A  node_modules/engine.io-client/node_modules/debug/.eslintrc
+5 verbose stack A  node_modules/engine.io-client/node_modules/debug/.npmignore
+5 verbose stack A  node_modules/engine.io-client/node_modules/debug/.travis.yml
+5 verbose stack A  node_modules/engine.io-client/node_modules/debug/CHANGELOG.md
+5 verbose stack A  node_modules/engine.io-client/node_modules/debug/LICENSE
+5 verbose stack A  node_modules/engine.io-client/node_modules/debug/Makefile
+5 verbose stack A  node_modules/engine.io-client/node_modules/debug/README.md
+5 verbose stack A  node_modules/engine.io-client/node_modules/debug/karma.conf.js
+5 verbose stack A  node_modules/engine.io-client/node_modules/debug/node.js
+5 verbose stack A  node_modules/engine.io-client/node_modules/debug/package.json
+5 verbose stack A  node_modules/engine.io-client/node_modules/debug/src/browser.js
+5 verbose stack A  node_modules/engine.io-client/node_modules/debug/src/debug.js
+5 verbose stack A  node_modules/engine.io-client/node_modules/debug/src/index.js
+5 verbose stack A  node_modules/engine.io-client/node_modules/debug/src/node.js
+5 verbose stack A  node_modules/engine.io-client/node_modules/ms/index.js
+5 verbose stack A  node_modules/engine.io-client/node_modules/ms/license.md
+5 verbose stack A  node_modules/engine.io-client/node_modules/ms/package.json
+5 verbose stack A  node_modules/engine.io-client/node_modules/ms/readme.md
+5 verbose stack A  node_modules/engine.io-client/package.json
+5 verbose stack A  node_modules/engine.io-parser/LICENSE
+5 verbose stack A  node_modules/engine.io-parser/Readme.md
+5 verbose stack A  node_modules/engine.io-parser/lib/browser.js
+5 verbose stack A  node_modules/engine.io-parser/lib/index.js
+5 verbose stack A  node_modules/engine.io-parser/lib/keys.js
+5 verbose stack A  node_modules/engine.io-parser/lib/utf8.js
+5 verbose stack A  node_modules/engine.io-parser/package.json
+5 verbose stack A  node_modules/engine.io/LICENSE
+5 verbose stack A  node_modules/engine.io/README.md
+5 verbose stack A  node_modules/engine.io/lib/engine.io.js
+5 verbose stack A  node_modules/engine.io/lib/server.js
+5 verbose stack A  node_modules/engine.io/lib/socket.js
+5 verbose stack A  node_modules/engine.io/lib/transport.js
+5 verbose stack A  node_modules/engine.io/lib/transports/index.js
+5 verbose stack A  node_modules/engine.io/lib/transports/polling-jsonp.js
+5 verbose stack A  node_modules/engine.io/lib/transports/polling-xhr.js
+5 verbose stack A  node_modules/engine.io/lib/transports/polling.js
+5 verbose stack A  node_modules/engine.io/lib/transports/websocket.js
+5 verbose stack A  node_modules/engine.io/node_modules/debug/.coveralls.yml
+5 verbose stack A  node_modules/engine.io/node_modules/debug/.eslintrc
+5 verbose stack A  node_modules/engine.io/node_modules/debug/.npmignore
+5 verbose stack A  node_modules/engine.io/node_modules/debug/.travis.yml
+5 verbose stack A  node_modules/engine.io/node_modules/debug/CHANGELOG.md
+5 verbose stack A  node_modules/engine.io/node_modules/debug/LICENSE
+5 verbose stack A  node_modules/engine.io/node_modules/debug/Makefile
+5 verbose stack A  node_modules/engine.io/node_modules/debug/README.md
+5 verbose stack A  node_modules/engine.io/node_modules/debug/karma.conf.js
+5 verbose stack A  node_modules/engine.io/node_modules/debug/node.js
+5 verbose stack A  node_modules/engine.io/node_modules/debug/package.json
+5 verbose stack A  node_modules/engine.io/node_modules/debug/src/browser.js
+5 verbose stack A  node_modules/engine.io/node_modules/debug/src/debug.js
+5 verbose stack A  node_modules/engine.io/node_modules/debug/src/index.js
+5 verbose stack A  node_modules/engine.io/node_modules/debug/src/node.js
+5 verbose stack A  node_modules/engine.io/node_modules/ms/index.js
+5 verbose stack A  node_modules/engine.io/node_modules/ms/license.md
+5 verbose stack A  node_modules/engine.io/node_modules/ms/package.json
+5 verbose stack A  node_modules/engine.io/node_modules/ms/readme.md
+5 verbose stack A  node_modules/engine.io/package.json
+5 verbose stack A  node_modules/escape-html/LICENSE
+5 verbose stack A  node_modules/escape-html/Readme.md
+5 verbose stack A  node_modules/escape-html/index.js
+5 verbose stack A  node_modules/escape-html/package.json
+5 verbose stack A  node_modules/etag/HISTORY.md
+5 verbose stack A  node_modules/etag/LICENSE
+5 verbose stack A  node_modules/etag/README.md
+5 verbose stack A  node_modules/etag/index.js
+5 verbose stack A  node_modules/etag/package.json
+5 verbose stack A  node_modules/express/History.md
+5 verbose stack A  node_modules/express/LICENSE
+5 verbose stack A  node_modules/express/Readme.md
+5 verbose stack A  node_modules/express/index.js
+5 verbose stack A  node_modules/express/lib/application.js
+5 verbose stack A  node_modules/express/lib/express.js
+5 verbose stack A  node_modules/express/lib/middleware/init.js
+5 verbose stack A  node_modules/express/lib/middleware/query.js
+5 verbose stack A  node_modules/express/lib/request.js
+5 verbose stack A  node_modules/express/lib/response.js
+5 verbose stack A  node_modules/express/lib/router/index.js
+5 verbose stack A  node_modules/express/lib/router/layer.js
+5 verbose stack A  node_modules/express/lib/router/route.js
+5 verbose stack A  node_modules/express/lib/utils.js
+5 verbose stack A  node_modules/express/lib/view.js
+5 verbose stack A  node_modules/express/package.json
+5 verbose stack A  node_modules/finalhandler/HISTORY.md
+5 verbose stack A  node_modules/finalhandler/LICENSE
+5 verbose stack A  node_modules/finalhandler/README.md
+5 verbose stack A  node_modules/finalhandler/index.js
+5 verbose stack A  node_modules/finalhandler/node_modules/debug/.coveralls.yml
+5 verbose stack A  node_modules/finalhandler/node_modules/debug/.eslintrc
+5 verbose stack A  node_modules/finalhandler/node_modules/debug/.npmignore
+5 verbose stack A  node_modules/finalhandler/node_modules/debug/.travis.yml
+5 verbose stack A  node_modules/finalhandler/node_modules/debug/CHANGELOG.md
+5 verbose stack A  node_modules/finalhandler/node_modules/debug/LICENSE
+5 verbose stack A  node_modules/finalhandler/node_modules/debug/Makefile
+5 verbose stack A  node_modules/finalhandler/node_modules/debug/README.md
+5 verbose stack A  node_modules/finalhandler/node_modules/debug/component.json
+5 verbose stack A  node_modules/finalhandler/node_modules/debug/karma.conf.js
+5 verbose stack A  node_modules/finalhandler/node_modules/debug/node.js
+5 verbose stack A  node_modules/finalhandler/node_modules/debug/package.json
+5 verbose stack A  node_modules/finalhandler/node_modules/debug/src/browser.js
+5 verbose stack A  node_modules/finalhandler/node_modules/debug/src/debug.js
+5 verbose stack A  node_modules/finalhandler/node_modules/debug/src/index.js
+5 verbose stack A  node_modules/finalhandler/node_modules/debug/src/inspector-log.js
+5 verbose stack A  node_modules/finalhandler/node_modules/debug/src/node.js
+5 verbose stack A  node_modules/finalhandler/node_modules/ms/index.js
+5 verbose stack A  node_modules/finalhandler/node_modules/ms/license.md
+5 verbose stack A  node_modules/finalhandler/node_modules/ms/package.json
+5 verbose stack A  node_modules/finalhandler/node_modules/ms/readme.md
+5 verbose stack A  node_modules/finalhandler/package.json
+5 verbose stack A  node_modules/forwarded/HISTORY.md
+5 verbose stack A  node_modules/forwarded/LICENSE
+5 verbose stack A  node_modules/forwarded/README.md
+5 verbose stack A  node_modules/forwarded/index.js
+5 verbose stack A  node_modules/forwarded/package.json
+5 verbose stack A  node_modules/fresh/HISTORY.md
+5 verbose stack A  node_modules/fresh/LICENSE
+5 verbose stack A  node_modules/fresh/README.md
+5 verbose stack A  node_modules/fresh/index.js
+5 verbose stack A  node_modules/fresh/package.json
+5 verbose stack A  node_modules/has-binary2/History.md
+5 verbose stack A  node_modules/has-binary2/LICENSE
+5 verbose stack A  node_modules/has-binary2/README.md
+5 verbose stack A  node_modules/has-binary2/index.js
+5 verbose stack A  node_modules/has-binary2/package.json
+5 verbose stack A  node_modules/has-cors/.npmignore
+5 verbose stack A  node_modules/has-cors/History.md
+5 verbose stack A  node_modules/has-cors/Makefile
+5 verbose stack A  node_modules/has-cors/Readme.md
+5 verbose stack A  node_modules/has-cors/component.json
+5 verbose stack A  node_modules/has-cors/index.js
+5 verbose stack A  node_modules/has-cors/package.json
+5 verbose stack A  node_modules/has-cors/test.js
+5 verbose stack A  node_modules/http-errors/HISTORY.md
+5 verbose stack A  node_modules/http-errors/LICENSE
+5 verbose stack A  node_modules/http-errors/README.md
+5 verbose stack A  node_modules/http-errors/index.js
+5 verbose stack A  node_modules/http-errors/node_modules/depd/History.md
+5 verbose stack A  node_modules/http-errors/node_modules/depd/LICENSE
+5 verbose stack A  node_modules/http-errors/node_modules/depd/Readme.md
+5 verbose stack A  node_modules/http-errors/node_modules/depd/index.js
+5 verbose stack A  node_modules/http-errors/node_modules/depd/lib/browser/index.js
+5 verbose stack A  node_modules/http-errors/node_modules/depd/lib/compat/callsite-tostring.js
+5 verbose stack A  node_modules/http-errors/node_modules/depd/lib/compat/event-listener-count.js
+5 verbose stack A  node_modules/http-errors/node_modules/depd/lib/compat/index.js
+5 verbose stack A  node_modules/http-errors/node_modules/depd/package.json
+5 verbose stack A  node_modules/http-errors/package.json
+5 verbose stack A  node_modules/indexof/.npmignore
+5 verbose stack A  node_modules/indexof/Makefile
+5 verbose stack A  node_modules/indexof/Readme.md
+5 verbose stack A  node_modules/indexof/component.json
+5 verbose stack A  node_modules/indexof/index.js
+5 verbose stack A  node_modules/indexof/package.json
+5 verbose stack A  node_modules/inherits/LICENSE
+5 verbose stack A  node_modules/inherits/README.md
+5 verbose stack A  node_modules/inherits/inherits.js
+5 verbose stack A  node_modules/inherits/inherits_browser.js
+5 verbose stack A  node_modules/inherits/package.json
+5 verbose stack A  node_modules/ipaddr.js/.npmignore
+5 verbose stack A  node_modules/ipaddr.js/.travis.yml
+5 verbose stack A  node_modules/ipaddr.js/Cakefile
+5 verbose stack A  node_modules/ipaddr.js/LICENSE
+5 verbose stack A  node_modules/ipaddr.js/README.md
+5 verbose stack A  node_modules/ipaddr.js/bower.json
+5 verbose stack A  node_modules/ipaddr.js/ipaddr.min.js
+5 verbose stack A  node_modules/ipaddr.js/lib/ipaddr.js
+5 verbose stack A  node_modules/ipaddr.js/package.json
+5 verbose stack A  node_modules/ipaddr.js/src/ipaddr.coffee
+5 verbose stack A  node_modules/ipaddr.js/test/ipaddr.test.coffee
+5 verbose stack A  node_modules/isarray/README.md
+5 verbose stack A  node_modules/isarray/index.js
+5 verbose stack A  node_modules/isarray/package.json
+5 verbose stack A  node_modules/media-typer/HISTORY.md
+5 verbose stack A  node_modules/media-typer/LICENSE
+5 verbose stack A  node_modules/media-typer/README.md
+5 verbose stack A  node_modules/media-typer/index.js
+5 verbose stack A  node_modules/media-typer/package.json
+5 verbose stack A  node_modules/merge-descriptors/HISTORY.md
+5 verbose stack A  node_modules/merge-descriptors/LICENSE
+5 verbose stack A  node_modules/merge-descriptors/README.md
+5 verbose stack A  node_modules/merge-descriptors/index.js
+5 verbose stack A  node_modules/merge-descriptors/package.json
+5 verbose stack A  node_modules/methods/HISTORY.md
+5 verbose stack A  node_modules/methods/LICENSE
+5 verbose stack A  node_modules/methods/README.md
+5 verbose stack A  node_modules/methods/index.js
+5 verbose stack A  node_modules/methods/package.json
+5 verbose stack A  node_modules/mime-db/HISTORY.md
+5 verbose stack A  node_modules/mime-db/LICENSE
+5 verbose stack A  node_modules/mime-db/README.md
+5 verbose stack A  node_modules/mime-db/db.json
+5 verbose stack A  node_modules/mime-db/index.js
+5 verbose stack A  node_modules/mime-db/package.json
+5 verbose stack A  node_modules/mime-types/HISTORY.md
+5 verbose stack A  node_modules/mime-types/LICENSE
+5 verbose stack A  node_modules/mime-types/README.md
+5 verbose stack A  node_modules/mime-types/index.js
+5 verbose stack A  node_modules/mime-types/package.json
+5 verbose stack A  node_modules/mime/.npmignore
+5 verbose stack A  node_modules/mime/LICENSE
+5 verbose stack A  node_modules/mime/README.md
+5 verbose stack A  node_modules/mime/build/build.js
+5 verbose stack A  node_modules/mime/build/test.js
+5 verbose stack A  node_modules/mime/cli.js
+5 verbose stack A  node_modules/mime/mime.js
+5 verbose stack A  node_modules/mime/package.json
+5 verbose stack A  node_modules/mime/types.json
+5 verbose stack A  node_modules/ms/LICENSE.md
+5 verbose stack A  node_modules/ms/README.md
+5 verbose stack A  node_modules/ms/index.js
+5 verbose stack A  node_modules/ms/package.json
+5 verbose stack A  node_modules/negotiator/HISTORY.md
+5 verbose stack A  node_modules/negotiator/LICENSE
+5 verbose stack A  node_modules/negotiator/README.md
+5 verbose stack A  node_modules/negotiator/index.js
+5 verbose stack A  node_modules/negotiator/lib/charset.js
+5 verbose stack A  node_modules/negotiator/lib/encoding.js
+5 verbose stack A  node_modules/negotiator/lib/language.js
+5 verbose stack A  node_modules/negotiator/lib/mediaType.js
+5 verbose stack A  node_modules/negotiator/package.json
+5 verbose stack A  node_modules/object-component/.npmignore
+5 verbose stack A  node_modules/object-component/History.md
+5 verbose stack A  node_modules/object-component/Makefile
+5 verbose stack A  node_modules/object-component/Readme.md
+5 verbose stack A  node_modules/object-component/component.json
+5 verbose stack A  node_modules/object-component/index.js
+5 verbose stack A  node_modules/object-component/package.json
+5 verbose stack A  node_modules/object-component/test/object.js
+5 verbose stack A  node_modules/on-finished/HISTORY.md
+5 verbose stack A  node_modules/on-finished/LICENSE
+5 verbose stack A  node_modules/on-finished/README.md
+5 verbose stack A  node_modules/on-finished/index.js
+5 verbose stack A  node_modules/on-finished/package.json
+5 verbose stack A  node_modules/parseqs/.npmignore
+5 verbose stack A  node_modules/parseqs/LICENSE
+5 verbose stack A  node_modules/parseqs/Makefile
+5 verbose stack A  node_modules/parseqs/README.md
+5 verbose stack A  node_modules/parseqs/index.js
+5 verbose stack A  node_modules/parseqs/package.json
+5 verbose stack A  node_modules/parseqs/test.js
+5 verbose stack A  node_modules/parseuri/.npmignore
+5 verbose stack A  node_modules/parseuri/History.md
+5 verbose stack A  node_modules/parseuri/LICENSE
+5 verbose stack A  node_modules/parseuri/Makefile
+5 verbose stack A  node_modules/parseuri/README.md
+5 verbose stack A  node_modules/parseuri/index.js
+5 verbose stack A  node_modules/parseuri/package.json
+5 verbose stack A  node_modules/parseuri/test.js
+5 verbose stack A  node_modules/parseurl/HISTORY.md
+5 verbose stack A  node_modules/parseurl/LICENSE
+5 verbose stack A  node_modules/parseurl/README.md
+5 verbose stack A  node_modules/parseurl/index.js
+5 verbose stack A  node_modules/parseurl/package.json
+5 verbose stack A  node_modules/path-to-regexp/History.md
+5 verbose stack A  node_modules/path-to-regexp/LICENSE
+5 verbose stack A  node_modules/path-to-regexp/Readme.md
+5 verbose stack A  node_modules/path-to-regexp/index.js
+5 verbose stack A  node_modules/path-to-regexp/package.json
+5 verbose stack A  node_modules/proxy-addr/HISTORY.md
+5 verbose stack A  node_modules/proxy-addr/LICENSE
+5 verbose stack A  node_modules/proxy-addr/README.md
+5 verbose stack A  node_modules/proxy-addr/index.js
+5 verbose stack A  node_modules/proxy-addr/package.json
+5 verbose stack A  node_modules/qs/.eslintignore
+5 verbose stack A  node_modules/qs/.eslintrc
+5 verbose stack A  node_modules/qs/.jscs.json
+5 verbose stack A  node_modules/qs/CHANGELOG.md
+5 verbose stack A  node_modules/qs/LICENSE
+5 verbose stack A  node_modules/qs/README.md
+5 verbose stack A  node_modules/qs/dist/qs.js
+5 verbose stack A  node_modules/qs/lib/formats.js
+5 verbose stack A  node_modules/qs/lib/index.js
+5 verbose stack A  node_modules/qs/lib/parse.js
+5 verbose stack A  node_modules/qs/lib/stringify.js
+5 verbose stack A  node_modules/qs/lib/utils.js
+5 verbose stack A  node_modules/qs/package.json
+5 verbose stack A  node_modules/qs/test/.eslintrc
+5 verbose stack A  node_modules/qs/test/index.js
+5 verbose stack A  node_modules/qs/test/parse.js
+5 verbose stack A  node_modules/qs/test/stringify.js
+5 verbose stack A  node_modules/qs/test/utils.js
+5 verbose stack A  node_modules/range-parser/HISTORY.md
+5 verbose stack A  node_modules/range-parser/LICENSE
+5 verbose stack A  node_modules/range-parser/README.md
+5 verbose stack A  node_modules/range-parser/index.js
+5 verbose stack A  node_modules/range-parser/package.json
+5 verbose stack A  node_modules/safe-buffer/.travis.yml
+5 verbose stack A  node_modules/safe-buffer/LICENSE
+5 verbose stack A  node_modules/safe-buffer/README.md
+5 verbose stack A  node_modules/safe-buffer/index.js
+5 verbose stack A  node_modules/safe-buffer/package.json
+5 verbose stack A  node_modules/safe-buffer/test.js
+5 verbose stack A  node_modules/send/HISTORY.md
+5 verbose stack A  node_modules/send/LICENSE
+5 verbose stack A  node_modules/send/README.md
+5 verbose stack A  node_modules/send/index.js
+5 verbose stack A  node_modules/send/package.json
+5 verbose stack A  node_modules/serve-static/HISTORY.md
+5 verbose stack A  node_modules/serve-static/LICENSE
+5 verbose stack A  node_modules/serve-static/README.md
+5 verbose stack A  node_modules/serve-static/index.js
+5 verbose stack A  node_modules/serve-static/package.json
+5 verbose stack A  node_modules/setprototypeof/LICENSE
+5 verbose stack A  node_modules/setprototypeof/README.md
+5 verbose stack A  node_modules/setprototypeof/index.js
+5 verbose stack A  node_modules/setprototypeof/package.json
+5 verbose stack A  node_modules/socket.io-adapter/.npmignore
+5 verbose stack A  node_modules/socket.io-adapter/LICENSE
+5 verbose stack A  node_modules/socket.io-adapter/Readme.md
+5 verbose stack A  node_modules/socket.io-adapter/index.js
+5 verbose stack A  node_modules/socket.io-adapter/package.json
+5 verbose stack A  node_modules/socket.io-client/LICENSE
+5 verbose stack A  node_modules/socket.io-client/README.md
+5 verbose stack A  node_modules/socket.io-client/dist/socket.io.js
+5 verbose stack A  node_modules/socket.io-client/dist/socket.io.js.map
+5 verbose stack A  node_modules/socket.io-client/dist/socket.io.slim.js
+5 verbose stack A  node_modules/socket.io-client/dist/socket.io.slim.js.map
+5 verbose stack A  node_modules/socket.io-client/lib/index.js
+5 verbose stack A  node_modules/socket.io-client/lib/manager.js
+5 verbose stack A  node_modules/socket.io-client/lib/on.js
+5 verbose stack A  node_modules/socket.io-client/lib/socket.js
+5 verbose stack A  node_modules/socket.io-client/lib/url.js
+5 verbose stack A  node_modules/socket.io-client/node_modules/debug/.coveralls.yml
+5 verbose stack A  node_modules/socket.io-client/node_modules/debug/.eslintrc
+5 verbose stack A  node_modules/socket.io-client/node_modules/debug/.npmignore
+5 verbose stack A  node_modules/socket.io-client/node_modules/debug/.travis.yml
+5 verbose stack A  node_modules/socket.io-client/node_modules/debug/CHANGELOG.md
+5 verbose stack A  node_modules/socket.io-client/node_modules/debug/LICENSE
+5 verbose stack A  node_modules/socket.io-client/node_modules/debug/Makefile
+5 verbose stack A  node_modules/socket.io-client/node_modules/debug/README.md
+5 verbose stack A  node_modules/socket.io-client/node_modules/debug/component.json
+5 verbose stack A  node_modules/socket.io-client/node_modules/debug/karma.conf.js
+5 verbose stack A  node_modules/socket.io-client/node_modules/debug/node.js
+5 verbose stack A  node_modules/socket.io-client/node_modules/debug/package.json
+5 verbose stack A  node_modules/socket.io-client/node_modules/debug/src/browser.js
+5 verbose stack A  node_modules/socket.io-client/node_modules/debug/src/debug.js
+5 verbose stack A  node_modules/socket.io-client/node_modules/debug/src/index.js
+5 verbose stack A  node_modules/socket.io-client/node_modules/debug/src/inspector-log.js
+5 verbose stack A  node_modules/socket.io-client/node_modules/debug/src/node.js
+5 verbose stack A  node_modules/socket.io-client/node_modules/ms/index.js
+5 verbose stack A  node_modules/socket.io-client/node_modules/ms/license.md
+5 verbose stack A  node_modules/socket.io-client/node_modules/ms/package.json
+5 verbose stack A  node_modules/socket.io-client/node_modules/ms/readme.md
+5 verbose stack A  node_modules/socket.io-client/package.json
+5 verbose stack A  node_modules/socket.io-parser/LICENSE
+5 verbose stack A  node_modules/socket.io-parser/Readme.md
+5 verbose stack A  node_modules/socket.io-parser/binary.js
+5 verbose stack A  node_modules/socket.io-parser/index.js
+5 verbose stack A  node_modules/socket.io-parser/is-buffer.js
+5 verbose stack A  node_modules/socket.io-parser/node_modules/debug/.coveralls.yml
+5 verbose stack A  node_modules/socket.io-parser/node_modules/debug/.eslintrc
+5 verbose stack A  node_modules/socket.io-parser/node_modules/debug/.npmignore
+5 verbose stack A  node_modules/socket.io-parser/node_modules/debug/.travis.yml
+5 verbose stack A  node_modules/socket.io-parser/node_modules/debug/CHANGELOG.md
+5 verbose stack A  node_modules/socket.io-parser/node_modules/debug/LICENSE
+5 verbose stack A  node_modules/socket.io-parser/node_modules/debug/Makefile
+5 verbose stack A  node_modules/socket.io-parser/node_modules/debug/README.md
+5 verbose stack A  node_modules/socket.io-parser/node_modules/debug/karma.conf.js
+5 verbose stack A  node_modules/socket.io-parser/node_modules/debug/node.js
+5 verbose stack A  node_modules/socket.io-parser/node_modules/debug/package.json
+5 verbose stack A  node_modules/socket.io-parser/node_modules/debug/src/browser.js
+5 verbose stack A  node_modules/socket.io-parser/node_modules/debug/src/debug.js
+5 verbose stack A  node_modules/socket.io-parser/node_modules/debug/src/index.js
+5 verbose stack A  node_modules/socket.io-parser/node_modules/debug/src/node.js
+5 verbose stack A  node_modules/socket.io-parser/node_modules/ms/index.js
+5 verbose stack A  node_modules/socket.io-parser/node_modules/ms/license.md
+5 verbose stack A  node_modules/socket.io-parser/node_modules/ms/package.json
+5 verbose stack A  node_modules/socket.io-parser/node_modules/ms/readme.md
+5 verbose stack A  node_modules/socket.io-parser/package.json
+5 verbose stack A  node_modules/socket.io/LICENSE
+5 verbose stack A  node_modules/socket.io/Readme.md
+5 verbose stack A  node_modules/socket.io/lib/client.js
+5 verbose stack A  node_modules/socket.io/lib/index.js
+5 verbose stack A  node_modules/socket.io/lib/namespace.js
+5 verbose stack A  node_modules/socket.io/lib/socket.js
+5 verbose stack A  node_modules/socket.io/node_modules/debug/.coveralls.yml
+5 verbose stack A  node_modules/socket.io/node_modules/debug/.eslintrc
+5 verbose stack A  node_modules/socket.io/node_modules/debug/.npmignore
+5 verbose stack A  node_modules/socket.io/node_modules/debug/.travis.yml
+5 verbose stack A  node_modules/socket.io/node_modules/debug/CHANGELOG.md
+5 verbose stack A  node_modules/socket.io/node_modules/debug/LICENSE
+5 verbose stack A  node_modules/socket.io/node_modules/debug/Makefile
+5 verbose stack A  node_modules/socket.io/node_modules/debug/README.md
+5 verbose stack A  node_modules/socket.io/node_modules/debug/component.json
+5 verbose stack A  node_modules/socket.io/node_modules/debug/karma.conf.js
+5 verbose stack A  node_modules/socket.io/node_modules/debug/node.js
+5 verbose stack A  node_modules/socket.io/node_modules/debug/package.json
+5 verbose stack A  node_modules/socket.io/node_modules/debug/src/browser.js
+5 verbose stack A  node_modules/socket.io/node_modules/debug/src/debug.js
+5 verbose stack A  node_modules/socket.io/node_modules/debug/src/index.js
+5 verbose stack A  node_modules/socket.io/node_modules/debug/src/inspector-log.js
+5 verbose stack A  node_modules/socket.io/node_modules/debug/src/node.js
+5 verbose stack A  node_modules/socket.io/node_modules/ms/index.js
+5 verbose stack A  node_modules/socket.io/node_modules/ms/license.md
+5 verbose stack A  node_modules/socket.io/node_modules/ms/package.json
+5 verbose stack A  node_modules/socket.io/node_modules/ms/readme.md
+5 verbose stack A  node_modules/socket.io/package.json
+5 verbose stack A  node_modules/statuses/HISTORY.md
+5 verbose stack A  node_modules/statuses/LICENSE
+5 verbose stack A  node_modules/statuses/README.md
+5 verbose stack A  node_modules/statuses/codes.json
+5 verbose stack A  node_modules/statuses/index.js
+5 verbose stack A  node_modules/statuses/package.json
+5 verbose stack A  node_modules/to-array/.npmignore
+5 verbose stack A  node_modules/to-array/LICENCE
+5 verbose stack A  node_modules/to-array/README.md
+5 verbose stack A  node_modules/to-array/index.js
+5 verbose stack A  node_modules/to-array/package.json
+5 verbose stack A  node_modules/type-is/HISTORY.md
+5 verbose stack A  node_modules/type-is/LICENSE
+5 verbose stack A  node_modules/type-is/README.md
+5 verbose stack A  node_modules/type-is/index.js
+5 verbose stack A  node_modules/type-is/package.json
+5 verbose stack A  node_modules/ultron/LICENSE
+5 verbose stack A  node_modules/ultron/README.md
+5 verbose stack A  node_modules/ultron/index.js
+5 verbose stack A  node_modules/ultron/package.json
+5 verbose stack A  node_modules/unpipe/HISTORY.md
+5 verbose stack A  node_modules/unpipe/LICENSE
+5 verbose stack A  node_modules/unpipe/README.md
+5 verbose stack A  node_modules/unpipe/index.js
+5 verbose stack A  node_modules/unpipe/package.json
+5 verbose stack A  node_modules/utils-merge/.travis.yml
+5 verbose stack A  node_modules/utils-merge/LICENSE
+5 verbose stack A  node_modules/utils-merge/README.md
+5 verbose stack A  node_modules/utils-merge/index.js
+5 verbose stack A  node_modules/utils-merge/package.json
+5 verbose stack A  node_modules/uws/LICENSE
+5 verbose stack A  node_modules/uws/README.md
+5 verbose stack A  node_modules/uws/binding.gyp
+5 verbose stack A  node_modules/uws/build_log.txt
+5 verbose stack A  node_modules/uws/package.json
+5 verbose stack A  node_modules/uws/src/Asio.h
+5 verbose stack A  node_modules/uws/src/Backend.h
+5 verbose stack A  node_modules/uws/src/Epoll.cpp
+5 verbose stack A  node_modules/uws/src/Epoll.h
+5 verbose stack A  node_modules/uws/src/Extensions.cpp
+5 verbose stack A  node_modules/uws/src/Extensions.h
+5 verbose stack A  node_modules/uws/src/Group.cpp
+5 verbose stack A  node_modules/uws/src/Group.h
+5 verbose stack A  node_modules/uws/src/HTTPSocket.cpp
+5 verbose stack A  node_modules/uws/src/HTTPSocket.h
+5 verbose stack A  node_modules/uws/src/Hub.cpp
+5 verbose stack A  node_modules/uws/src/Hub.h
+5 verbose stack A  node_modules/uws/src/Libuv.h
+5 verbose stack A  node_modules/uws/src/Networking.cpp
+5 verbose stack A  node_modules/uws/src/Networking.h
+5 verbose stack A  node_modules/uws/src/Node.cpp
+5 verbose stack A  node_modules/uws/src/Node.h
+5 verbose stack A  node_modules/uws/src/Socket.cpp
+5 verbose stack A  node_modules/uws/src/Socket.h
+5 verbose stack A  node_modules/uws/src/WebSocket.cpp
+5 verbose stack A  node_modules/uws/src/WebSocket.h
+5 verbose stack A  node_modules/uws/src/WebSocketProtocol.h
+5 verbose stack A  node_modules/uws/src/addon.cpp
+5 verbose stack A  node_modules/uws/src/addon.h
+5 verbose stack A  node_modules/uws/src/http.h
+5 verbose stack A  node_modules/uws/src/uWS.h
+5 verbose stack A  node_modules/uws/uws.js
+5 verbose stack A  node_modules/uws/uws_darwin_46.node
+5 verbose stack A  node_modules/uws/uws_darwin_47.node
+5 verbose stack A  node_modules/uws/uws_darwin_48.node
+5 verbose stack A  node_modules/uws/uws_darwin_51.node
+5 verbose stack A  node_modules/uws/uws_darwin_57.node
+5 verbose stack A  node_modules/uws/uws_darwin_59.node
+5 verbose stack A  node_modules/uws/uws_linux_46.node
+5 verbose stack A  node_modules/uws/uws_linux_47.node
+5 verbose stack A  node_modules/uws/uws_linux_48.node
+5 verbose stack A  node_modules/uws/uws_linux_51.node
+5 verbose stack A  node_modules/uws/uws_linux_57.node
+5 verbose stack A  node_modules/uws/uws_linux_59.node
+5 verbose stack A  node_modules/uws/uws_win32_48.node
+5 verbose stack A  node_modules/uws/uws_win32_51.node
+5 verbose stack A  node_modules/uws/uws_win32_57.node
+5 verbose stack A  node_modules/uws/uws_win32_59.node
+5 verbose stack A  node_modules/vary/HISTORY.md
+5 verbose stack A  node_modules/vary/LICENSE
+5 verbose stack A  node_modules/vary/README.md
+5 verbose stack A  node_modules/vary/index.js
+5 verbose stack A  node_modules/vary/package.json
+5 verbose stack A  node_modules/ws/LICENSE
+5 verbose stack A  node_modules/ws/README.md
+5 verbose stack A  node_modules/ws/index.js
+5 verbose stack A  node_modules/ws/lib/.DS_Store
+5 verbose stack A  node_modules/ws/lib/BufferUtil.js
+5 verbose stack A  node_modules/ws/lib/Constants.js
+5 verbose stack A  node_modules/ws/lib/ErrorCodes.js
+5 verbose stack A  node_modules/ws/lib/EventTarget.js
+5 verbose stack A  node_modules/ws/lib/Extensions.js
+5 verbose stack A  node_modules/ws/lib/PerMessageDeflate.js
+5 verbose stack A  node_modules/ws/lib/Receiver.js
+5 verbose stack A  node_modules/ws/lib/Sender.js
+5 verbose stack A  node_modules/ws/lib/Validation.js
+5 verbose stack A  node_modules/ws/lib/WebSocket.js
+5 verbose stack A  node_modules/ws/lib/WebSocketServer.js
+5 verbose stack A  node_modules/ws/package.json
+5 verbose stack A  node_modules/xmlhttprequest-ssl/LICENSE
+5 verbose stack A  node_modules/xmlhttprequest-ssl/README.md
+5 verbose stack A  node_modules/xmlhttprequest-ssl/autotest.watchr
+5 verbose stack A  node_modules/xmlhttprequest-ssl/example/demo.js
+5 verbose stack A  node_modules/xmlhttprequest-ssl/lib/XMLHttpRequest.js
+5 verbose stack A  node_modules/xmlhttprequest-ssl/package.json
+5 verbose stack A  node_modules/xmlhttprequest-ssl/tests/test-constants.js
+5 verbose stack A  node_modules/xmlhttprequest-ssl/tests/test-events.js
+5 verbose stack A  node_modules/xmlhttprequest-ssl/tests/test-exceptions.js
+5 verbose stack A  node_modules/xmlhttprequest-ssl/tests/test-headers.js
+5 verbose stack A  node_modules/xmlhttprequest-ssl/tests/test-redirect-302.js
+5 verbose stack A  node_modules/xmlhttprequest-ssl/tests/test-redirect-303.js
+5 verbose stack A  node_modules/xmlhttprequest-ssl/tests/test-redirect-307.js
+5 verbose stack A  node_modules/xmlhttprequest-ssl/tests/test-request-methods.js
+5 verbose stack A  node_modules/xmlhttprequest-ssl/tests/test-request-protocols.js
+5 verbose stack A  node_modules/xmlhttprequest-ssl/tests/testdata.txt
+5 verbose stack A  node_modules/yeast/LICENSE
+5 verbose stack A  node_modules/yeast/README.md
+5 verbose stack A  node_modules/yeast/index.js
+5 verbose stack A  node_modules/yeast/package.json
+5 verbose stack AM package.json
+5 verbose stack     at C:\Program Files\nodejs\node_modules\npm\lib\version.js:247:19
+5 verbose stack     at C:\Program Files\nodejs\node_modules\npm\lib\utils\no-progress-while-running.js:21:8
+5 verbose stack     at ChildProcess.exithandler (child_process.js:195:7)
+5 verbose stack     at emitTwo (events.js:106:13)
+5 verbose stack     at ChildProcess.emit (events.js:191:7)
+5 verbose stack     at maybeClose (internal/child_process.js:886:16)
+5 verbose stack     at Socket.<anonymous> (internal/child_process.js:342:11)
+5 verbose stack     at emitOne (events.js:96:13)
+5 verbose stack     at Socket.emit (events.js:188:7)
+5 verbose stack     at Pipe._handle.close [as _onclose] (net.js:501:12)
+6 verbose cwd D:\PROJECTS\chat-example
+7 error Windows_NT 10.0.16299
+8 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "version" "patch"
+9 error node v6.10.2
+10 error npm  v3.10.10
+11 error Git working directory not clean.
+11 error A  index.html
+11 error A  index.js
+11 error A  node_modules/.bin/mime
+11 error A  node_modules/.bin/mime.cmd
+11 error A  node_modules/accepts/HISTORY.md
+11 error A  node_modules/accepts/LICENSE
+11 error A  node_modules/accepts/README.md
+11 error A  node_modules/accepts/index.js
+11 error A  node_modules/accepts/package.json
+11 error A  node_modules/after/.npmignore
+11 error A  node_modules/after/.travis.yml
+11 error A  node_modules/after/LICENCE
+11 error A  node_modules/after/README.md
+11 error A  node_modules/after/index.js
+11 error A  node_modules/after/package.json
+11 error A  node_modules/after/test/after-test.js
+11 error A  node_modules/array-flatten/LICENSE
+11 error A  node_modules/array-flatten/README.md
+11 error A  node_modules/array-flatten/array-flatten.js
+11 error A  node_modules/array-flatten/package.json
+11 error A  node_modules/arraybuffer.slice/.npmignore
+11 error A  node_modules/arraybuffer.slice/LICENCE
+11 error A  node_modules/arraybuffer.slice/Makefile
+11 error A  node_modules/arraybuffer.slice/README.md
+11 error A  node_modules/arraybuffer.slice/index.js
+11 error A  node_modules/arraybuffer.slice/package.json
+11 error A  node_modules/arraybuffer.slice/test/slice-buffer.js
+11 error A  node_modules/async-limiter/.travis.yml
+11 error A  node_modules/async-limiter/LICENSE
+11 error A  node_modules/async-limiter/coverage/coverage.json
+11 error A  node_modules/async-limiter/coverage/lcov-report/async-throttle/index.html
+11 error A  node_modules/async-limiter/coverage/lcov-report/async-throttle/index.js.html
+11 error A  node_modules/async-limiter/coverage/lcov-report/base.css
+11 error A  node_modules/async-limiter/coverage/lcov-report/index.html
+11 error A  node_modules/async-limiter/coverage/lcov-report/prettify.css
+11 error A  node_modules/async-limiter/coverage/lcov-report/prettify.js
+11 error A  node_modules/async-limiter/coverage/lcov-report/sort-arrow-sprite.png
+11 error A  node_modules/async-limiter/coverage/lcov-report/sorter.js
+11 error A  node_modules/async-limiter/coverage/lcov.info
+11 error A  node_modules/async-limiter/index.js
+11 error A  node_modules/async-limiter/package.json
+11 error A  node_modules/async-limiter/readme.md
+11 error A  node_modules/backo2/.npmignore
+11 error A  node_modules/backo2/History.md
+11 error A  node_modules/backo2/Makefile
+11 error A  node_modules/backo2/Readme.md
+11 error A  node_modules/backo2/component.json
+11 error A  node_modules/backo2/index.js
+11 error A  node_modules/backo2/package.json
+11 error A  node_modules/backo2/test/index.js
+11 error A  node_modules/base64-arraybuffer/.npmignore
+11 error A  node_modules/base64-arraybuffer/.travis.yml
+11 error A  node_modules/base64-arraybuffer/LICENSE-MIT
+11 error A  node_modules/base64-arraybuffer/README.md
+11 error A  node_modules/base64-arraybuffer/lib/base64-arraybuffer.js
+11 error A  node_modules/base64-arraybuffer/package.json
+11 error A  node_modules/base64id/.npmignore
+11 error A  node_modules/base64id/LICENSE
+11 error A  node_modules/base64id/README.md
+11 error A  node_modules/base64id/lib/base64id.js
+11 error A  node_modules/base64id/package.json
+11 error A  node_modules/better-assert/.npmignore
+11 error A  node_modules/better-assert/History.md
+11 error A  node_modules/better-assert/Makefile
+11 error A  node_modules/better-assert/Readme.md
+11 error A  node_modules/better-assert/example.js
+11 error A  node_modules/better-assert/index.js
+11 error A  node_modules/better-assert/package.json
+11 error A  node_modules/blob/.npmignore
+11 error A  node_modules/blob/.zuul.yml
+11 error A  node_modules/blob/Makefile
+11 error A  node_modules/blob/README.md
+11 error A  node_modules/blob/index.js
+11 error A  node_modules/blob/package.json
+11 error A  node_modules/blob/test/index.js
+11 error A  node_modules/callsite/.npmignore
+11 error A  node_modules/callsite/History.md
+11 error A  node_modules/callsite/Makefile
+11 error A  node_modules/callsite/Readme.md
+11 error A  node_modules/callsite/index.js
+11 error A  node_modules/callsite/package.json
+11 error A  node_modules/component-bind/.npmignore
+11 error A  node_modules/component-bind/History.md
+11 error A  node_modules/component-bind/Makefile
+11 error A  node_modules/component-bind/Readme.md
+11 error A  node_modules/component-bind/component.json
+11 error A  node_modules/component-bind/index.js
+11 error A  node_modules/component-bind/package.json
+11 error A  node_modules/component-emitter/History.md
+11 error A  node_modules/component-emitter/LICENSE
+11 error A  node_modules/component-emitter/Readme.md
+11 error A  node_modules/component-emitter/index.js
+11 error A  node_modules/component-emitter/package.json
+11 error A  node_modules/component-inherit/.npmignore
+11 error A  node_modules/component-inherit/History.md
+11 error A  node_modules/component-inherit/Makefile
+11 error A  node_modules/component-inherit/Readme.md
+11 error A  node_modules/component-inherit/component.json
+11 error A  node_modules/component-inherit/index.js
+11 error A  node_modules/component-inherit/package.json
+11 error A  node_modules/component-inherit/test/inherit.js
+11 error A  node_modules/content-disposition/HISTORY.md
+11 error A  node_modules/content-disposition/LICENSE
+11 error A  node_modules/content-disposition/README.md
+11 error A  node_modules/content-disposition/index.js
+11 error A  node_modules/content-disposition/package.json
+11 error A  node_modules/content-type/HISTORY.md
+11 error A  node_modules/content-type/LICENSE
+11 error A  node_modules/content-type/README.md
+11 error A  node_modules/content-type/index.js
+11 error A  node_modules/content-type/package.json
+11 error A  node_modules/cookie-signature/.npmignore
+11 error A  node_modules/cookie-signature/History.md
+11 error A  node_modules/cookie-signature/Readme.md
+11 error A  node_modules/cookie-signature/index.js
+11 error A  node_modules/cookie-signature/package.json
+11 error A  node_modules/cookie/HISTORY.md
+11 error A  node_modules/cookie/LICENSE
+11 error A  node_modules/cookie/README.md
+11 error A  node_modules/cookie/index.js
+11 error A  node_modules/cookie/package.json
+11 error A  node_modules/debug/.coveralls.yml
+11 error A  node_modules/debug/.eslintrc
+11 error A  node_modules/debug/.npmignore
+11 error A  node_modules/debug/.travis.yml
+11 error A  node_modules/debug/CHANGELOG.md
+11 error A  node_modules/debug/LICENSE
+11 error A  node_modules/debug/Makefile
+11 error A  node_modules/debug/README.md
+11 error A  node_modules/debug/bower.json
+11 error A  node_modules/debug/component.json
+11 error A  node_modules/debug/karma.conf.js
+11 error A  node_modules/debug/node.js
+11 error A  node_modules/debug/package.json
+11 error A  node_modules/debug/src/browser.js
+11 error A  node_modules/debug/src/debug.js
+11 error A  node_modules/debug/src/index.js
+11 error A  node_modules/debug/src/node.js
+11 error A  node_modules/depd/History.md
+11 error A  node_modules/depd/LICENSE
+11 error A  node_modules/depd/Readme.md
+11 error A  node_modules/depd/index.js
+11 error A  node_modules/depd/lib/browser/index.js
+11 error A  node_modules/depd/lib/compat/callsite-tostring.js
+11 error A  node_modules/depd/lib/compat/event-listener-count.js
+11 error A  node_modules/depd/lib/compat/index.js
+11 error A  node_modules/depd/package.json
+11 error A  node_modules/destroy/LICENSE
+11 error A  node_modules/destroy/README.md
+11 error A  node_modules/destroy/index.js
+11 error A  node_modules/destroy/package.json
+11 error A  node_modules/ee-first/LICENSE
+11 error A  node_modules/ee-first/README.md
+11 error A  node_modules/ee-first/index.js
+11 error A  node_modules/ee-first/package.json
+11 error A  node_modules/encodeurl/HISTORY.md
+11 error A  node_modules/encodeurl/LICENSE
+11 error A  node_modules/encodeurl/README.md
+11 error A  node_modules/encodeurl/index.js
+11 error A  node_modules/encodeurl/package.json
+11 error A  node_modules/engine.io-client/LICENSE
+11 error A  node_modules/engine.io-client/README.md
+11 error A  node_modules/engine.io-client/engine.io.js
+11 error A  node_modules/engine.io-client/lib/index.js
+11 error A  node_modules/engine.io-client/lib/socket.js
+11 error A  node_modules/engine.io-client/lib/transport.js
+11 error A  node_modules/engine.io-client/lib/transports/index.js
+11 error A  node_modules/engine.io-client/lib/transports/polling-jsonp.js
+11 error A  node_modules/engine.io-client/lib/transports/polling-xhr.js
+11 error A  node_modules/engine.io-client/lib/transports/polling.js
+11 error A  node_modules/engine.io-client/lib/transports/websocket.js
+11 error A  node_modules/engine.io-client/lib/xmlhttprequest.js
+11 error A  node_modules/engine.io-client/node_modules/debug/.coveralls.yml
+11 error A  node_modules/engine.io-client/node_modules/debug/.eslintrc
+11 error A  node_modules/engine.io-client/node_modules/debug/.npmignore
+11 error A  node_modules/engine.io-client/node_modules/debug/.travis.yml
+11 error A  node_modules/engine.io-client/node_modules/debug/CHANGELOG.md
+11 error A  node_modules/engine.io-client/node_modules/debug/LICENSE
+11 error A  node_modules/engine.io-client/node_modules/debug/Makefile
+11 error A  node_modules/engine.io-client/node_modules/debug/README.md
+11 error A  node_modules/engine.io-client/node_modules/debug/karma.conf.js
+11 error A  node_modules/engine.io-client/node_modules/debug/node.js
+11 error A  node_modules/engine.io-client/node_modules/debug/package.json
+11 error A  node_modules/engine.io-client/node_modules/debug/src/browser.js
+11 error A  node_modules/engine.io-client/node_modules/debug/src/debug.js
+11 error A  node_modules/engine.io-client/node_modules/debug/src/index.js
+11 error A  node_modules/engine.io-client/node_modules/debug/src/node.js
+11 error A  node_modules/engine.io-client/node_modules/ms/index.js
+11 error A  node_modules/engine.io-client/node_modules/ms/license.md
+11 error A  node_modules/engine.io-client/node_modules/ms/package.json
+11 error A  node_modules/engine.io-client/node_modules/ms/readme.md
+11 error A  node_modules/engine.io-client/package.json
+11 error A  node_modules/engine.io-parser/LICENSE
+11 error A  node_modules/engine.io-parser/Readme.md
+11 error A  node_modules/engine.io-parser/lib/browser.js
+11 error A  node_modules/engine.io-parser/lib/index.js
+11 error A  node_modules/engine.io-parser/lib/keys.js
+11 error A  node_modules/engine.io-parser/lib/utf8.js
+11 error A  node_modules/engine.io-parser/package.json
+11 error A  node_modules/engine.io/LICENSE
+11 error A  node_modules/engine.io/README.md
+11 error A  node_modules/engine.io/lib/engine.io.js
+11 error A  node_modules/engine.io/lib/server.js
+11 error A  node_modules/engine.io/lib/socket.js
+11 error A  node_modules/engine.io/lib/transport.js
+11 error A  node_modules/engine.io/lib/transports/index.js
+11 error A  node_modules/engine.io/lib/transports/polling-jsonp.js
+11 error A  node_modules/engine.io/lib/transports/polling-xhr.js
+11 error A  node_modules/engine.io/lib/transports/polling.js
+11 error A  node_modules/engine.io/lib/transports/websocket.js
+11 error A  node_modules/engine.io/node_modules/debug/.coveralls.yml
+11 error A  node_modules/engine.io/node_modules/debug/.eslintrc
+11 error A  node_modules/engine.io/node_modules/debug/.npmignore
+11 error A  node_modules/engine.io/node_modules/debug/.travis.yml
+11 error A  node_modules/engine.io/node_modules/debug/CHANGELOG.md
+11 error A  node_modules/engine.io/node_modules/debug/LICENSE
+11 error A  node_modules/engine.io/node_modules/debug/Makefile
+11 error A  node_modules/engine.io/node_modules/debug/README.md
+11 error A  node_modules/engine.io/node_modules/debug/karma.conf.js
+11 error A  node_modules/engine.io/node_modules/debug/node.js
+11 error A  node_modules/engine.io/node_modules/debug/package.json
+11 error A  node_modules/engine.io/node_modules/debug/src/browser.js
+11 error A  node_modules/engine.io/node_modules/debug/src/debug.js
+11 error A  node_modules/engine.io/node_modules/debug/src/index.js
+11 error A  node_modules/engine.io/node_modules/debug/src/node.js
+11 error A  node_modules/engine.io/node_modules/ms/index.js
+11 error A  node_modules/engine.io/node_modules/ms/license.md
+11 error A  node_modules/engine.io/node_modules/ms/package.json
+11 error A  node_modules/engine.io/node_modules/ms/readme.md
+11 error A  node_modules/engine.io/package.json
+11 error A  node_modules/escape-html/LICENSE
+11 error A  node_modules/escape-html/Readme.md
+11 error A  node_modules/escape-html/index.js
+11 error A  node_modules/escape-html/package.json
+11 error A  node_modules/etag/HISTORY.md
+11 error A  node_modules/etag/LICENSE
+11 error A  node_modules/etag/README.md
+11 error A  node_modules/etag/index.js
+11 error A  node_modules/etag/package.json
+11 error A  node_modules/express/History.md
+11 error A  node_modules/express/LICENSE
+11 error A  node_modules/express/Readme.md
+11 error A  node_modules/express/index.js
+11 error A  node_modules/express/lib/application.js
+11 error A  node_modules/express/lib/express.js
+11 error A  node_modules/express/lib/middleware/init.js
+11 error A  node_modules/express/lib/middleware/query.js
+11 error A  node_modules/express/lib/request.js
+11 error A  node_modules/express/lib/response.js
+11 error A  node_modules/express/lib/router/index.js
+11 error A  node_modules/express/lib/router/layer.js
+11 error A  node_modules/express/lib/router/route.js
+11 error A  node_modules/express/lib/utils.js
+11 error A  node_modules/express/lib/view.js
+11 error A  node_modules/express/package.json
+11 error A  node_modules/finalhandler/HISTORY.md
+11 error A  node_modules/finalhandler/LICENSE
+11 error A  node_modules/finalhandler/README.md
+11 error A  node_modules/finalhandler/index.js
+11 error A  node_modules/finalhandler/node_modules/debug/.coveralls.yml
+11 error A  node_modules/finalhandler/node_modules/debug/.eslintrc
+11 error A  node_modules/finalhandler/node_modules/debug/.npmignore
+11 error A  node_modules/finalhandler/node_modules/debug/.travis.yml
+11 error A  node_modules/finalhandler/node_modules/debug/CHANGELOG.md
+11 error A  node_modules/finalhandler/node_modules/debug/LICENSE
+11 error A  node_modules/finalhandler/node_modules/debug/Makefile
+11 error A  node_modules/finalhandler/node_modules/debug/README.md
+11 error A  node_modules/finalhandler/node_modules/debug/component.json
+11 error A  node_modules/finalhandler/node_modules/debug/karma.conf.js
+11 error A  node_modules/finalhandler/node_modules/debug/node.js
+11 error A  node_modules/finalhandler/node_modules/debug/package.json
+11 error A  node_modules/finalhandler/node_modules/debug/src/browser.js
+11 error A  node_modules/finalhandler/node_modules/debug/src/debug.js
+11 error A  node_modules/finalhandler/node_modules/debug/src/index.js
+11 error A  node_modules/finalhandler/node_modules/debug/src/inspector-log.js
+11 error A  node_modules/finalhandler/node_modules/debug/src/node.js
+11 error A  node_modules/finalhandler/node_modules/ms/index.js
+11 error A  node_modules/finalhandler/node_modules/ms/license.md
+11 error A  node_modules/finalhandler/node_modules/ms/package.json
+11 error A  node_modules/finalhandler/node_modules/ms/readme.md
+11 error A  node_modules/finalhandler/package.json
+11 error A  node_modules/forwarded/HISTORY.md
+11 error A  node_modules/forwarded/LICENSE
+11 error A  node_modules/forwarded/README.md
+11 error A  node_modules/forwarded/index.js
+11 error A  node_modules/forwarded/package.json
+11 error A  node_modules/fresh/HISTORY.md
+11 error A  node_modules/fresh/LICENSE
+11 error A  node_modules/fresh/README.md
+11 error A  node_modules/fresh/index.js
+11 error A  node_modules/fresh/package.json
+11 error A  node_modules/has-binary2/History.md
+11 error A  node_modules/has-binary2/LICENSE
+11 error A  node_modules/has-binary2/README.md
+11 error A  node_modules/has-binary2/index.js
+11 error A  node_modules/has-binary2/package.json
+11 error A  node_modules/has-cors/.npmignore
+11 error A  node_modules/has-cors/History.md
+11 error A  node_modules/has-cors/Makefile
+11 error A  node_modules/has-cors/Readme.md
+11 error A  node_modules/has-cors/component.json
+11 error A  node_modules/has-cors/index.js
+11 error A  node_modules/has-cors/package.json
+11 error A  node_modules/has-cors/test.js
+11 error A  node_modules/http-errors/HISTORY.md
+11 error A  node_modules/http-errors/LICENSE
+11 error A  node_modules/http-errors/README.md
+11 error A  node_modules/http-errors/index.js
+11 error A  node_modules/http-errors/node_modules/depd/History.md
+11 error A  node_modules/http-errors/node_modules/depd/LICENSE
+11 error A  node_modules/http-errors/node_modules/depd/Readme.md
+11 error A  node_modules/http-errors/node_modules/depd/index.js
+11 error A  node_modules/http-errors/node_modules/depd/lib/browser/index.js
+11 error A  node_modules/http-errors/node_modules/depd/lib/compat/callsite-tostring.js
+11 error A  node_modules/http-errors/node_modules/depd/lib/compat/event-listener-count.js
+11 error A  node_modules/http-errors/node_modules/depd/lib/compat/index.js
+11 error A  node_modules/http-errors/node_modules/depd/package.json
+11 error A  node_modules/http-errors/package.json
+11 error A  node_modules/indexof/.npmignore
+11 error A  node_modules/indexof/Makefile
+11 error A  node_modules/indexof/Readme.md
+11 error A  node_modules/indexof/component.json
+11 error A  node_modules/indexof/index.js
+11 error A  node_modules/indexof/package.json
+11 error A  node_modules/inherits/LICENSE
+11 error A  node_modules/inherits/README.md
+11 error A  node_modules/inherits/inherits.js
+11 error A  node_modules/inherits/inherits_browser.js
+11 error A  node_modules/inherits/package.json
+11 error A  node_modules/ipaddr.js/.npmignore
+11 error A  node_modules/ipaddr.js/.travis.yml
+11 error A  node_modules/ipaddr.js/Cakefile
+11 error A  node_modules/ipaddr.js/LICENSE
+11 error A  node_modules/ipaddr.js/README.md
+11 error A  node_modules/ipaddr.js/bower.json
+11 error A  node_modules/ipaddr.js/ipaddr.min.js
+11 error A  node_modules/ipaddr.js/lib/ipaddr.js
+11 error A  node_modules/ipaddr.js/package.json
+11 error A  node_modules/ipaddr.js/src/ipaddr.coffee
+11 error A  node_modules/ipaddr.js/test/ipaddr.test.coffee
+11 error A  node_modules/isarray/README.md
+11 error A  node_modules/isarray/index.js
+11 error A  node_modules/isarray/package.json
+11 error A  node_modules/media-typer/HISTORY.md
+11 error A  node_modules/media-typer/LICENSE
+11 error A  node_modules/media-typer/README.md
+11 error A  node_modules/media-typer/index.js
+11 error A  node_modules/media-typer/package.json
+11 error A  node_modules/merge-descriptors/HISTORY.md
+11 error A  node_modules/merge-descriptors/LICENSE
+11 error A  node_modules/merge-descriptors/README.md
+11 error A  node_modules/merge-descriptors/index.js
+11 error A  node_modules/merge-descriptors/package.json
+11 error A  node_modules/methods/HISTORY.md
+11 error A  node_modules/methods/LICENSE
+11 error A  node_modules/methods/README.md
+11 error A  node_modules/methods/index.js
+11 error A  node_modules/methods/package.json
+11 error A  node_modules/mime-db/HISTORY.md
+11 error A  node_modules/mime-db/LICENSE
+11 error A  node_modules/mime-db/README.md
+11 error A  node_modules/mime-db/db.json
+11 error A  node_modules/mime-db/index.js
+11 error A  node_modules/mime-db/package.json
+11 error A  node_modules/mime-types/HISTORY.md
+11 error A  node_modules/mime-types/LICENSE
+11 error A  node_modules/mime-types/README.md
+11 error A  node_modules/mime-types/index.js
+11 error A  node_modules/mime-types/package.json
+11 error A  node_modules/mime/.npmignore
+11 error A  node_modules/mime/LICENSE
+11 error A  node_modules/mime/README.md
+11 error A  node_modules/mime/build/build.js
+11 error A  node_modules/mime/build/test.js
+11 error A  node_modules/mime/cli.js
+11 error A  node_modules/mime/mime.js
+11 error A  node_modules/mime/package.json
+11 error A  node_modules/mime/types.json
+11 error A  node_modules/ms/LICENSE.md
+11 error A  node_modules/ms/README.md
+11 error A  node_modules/ms/index.js
+11 error A  node_modules/ms/package.json
+11 error A  node_modules/negotiator/HISTORY.md
+11 error A  node_modules/negotiator/LICENSE
+11 error A  node_modules/negotiator/README.md
+11 error A  node_modules/negotiator/index.js
+11 error A  node_modules/negotiator/lib/charset.js
+11 error A  node_modules/negotiator/lib/encoding.js
+11 error A  node_modules/negotiator/lib/language.js
+11 error A  node_modules/negotiator/lib/mediaType.js
+11 error A  node_modules/negotiator/package.json
+11 error A  node_modules/object-component/.npmignore
+11 error A  node_modules/object-component/History.md
+11 error A  node_modules/object-component/Makefile
+11 error A  node_modules/object-component/Readme.md
+11 error A  node_modules/object-component/component.json
+11 error A  node_modules/object-component/index.js
+11 error A  node_modules/object-component/package.json
+11 error A  node_modules/object-component/test/object.js
+11 error A  node_modules/on-finished/HISTORY.md
+11 error A  node_modules/on-finished/LICENSE
+11 error A  node_modules/on-finished/README.md
+11 error A  node_modules/on-finished/index.js
+11 error A  node_modules/on-finished/package.json
+11 error A  node_modules/parseqs/.npmignore
+11 error A  node_modules/parseqs/LICENSE
+11 error A  node_modules/parseqs/Makefile
+11 error A  node_modules/parseqs/README.md
+11 error A  node_modules/parseqs/index.js
+11 error A  node_modules/parseqs/package.json
+11 error A  node_modules/parseqs/test.js
+11 error A  node_modules/parseuri/.npmignore
+11 error A  node_modules/parseuri/History.md
+11 error A  node_modules/parseuri/LICENSE
+11 error A  node_modules/parseuri/Makefile
+11 error A  node_modules/parseuri/README.md
+11 error A  node_modules/parseuri/index.js
+11 error A  node_modules/parseuri/package.json
+11 error A  node_modules/parseuri/test.js
+11 error A  node_modules/parseurl/HISTORY.md
+11 error A  node_modules/parseurl/LICENSE
+11 error A  node_modules/parseurl/README.md
+11 error A  node_modules/parseurl/index.js
+11 error A  node_modules/parseurl/package.json
+11 error A  node_modules/path-to-regexp/History.md
+11 error A  node_modules/path-to-regexp/LICENSE
+11 error A  node_modules/path-to-regexp/Readme.md
+11 error A  node_modules/path-to-regexp/index.js
+11 error A  node_modules/path-to-regexp/package.json
+11 error A  node_modules/proxy-addr/HISTORY.md
+11 error A  node_modules/proxy-addr/LICENSE
+11 error A  node_modules/proxy-addr/README.md
+11 error A  node_modules/proxy-addr/index.js
+11 error A  node_modules/proxy-addr/package.json
+11 error A  node_modules/qs/.eslintignore
+11 error A  node_modules/qs/.eslintrc
+11 error A  node_modules/qs/.jscs.json
+11 error A  node_modules/qs/CHANGELOG.md
+11 error A  node_modules/qs/LICENSE
+11 error A  node_modules/qs/README.md
+11 error A  node_modules/qs/dist/qs.js
+11 error A  node_modules/qs/lib/formats.js
+11 error A  node_modules/qs/lib/index.js
+11 error A  node_modules/qs/lib/parse.js
+11 error A  node_modules/qs/lib/stringify.js
+11 error A  node_modules/qs/lib/utils.js
+11 error A  node_modules/qs/package.json
+11 error A  node_modules/qs/test/.eslintrc
+11 error A  node_modules/qs/test/index.js
+11 error A  node_modules/qs/test/parse.js
+11 error A  node_modules/qs/test/stringify.js
+11 error A  node_modules/qs/test/utils.js
+11 error A  node_modules/range-parser/HISTORY.md
+11 error A  node_modules/range-parser/LICENSE
+11 error A  node_modules/range-parser/README.md
+11 error A  node_modules/range-parser/index.js
+11 error A  node_modules/range-parser/package.json
+11 error A  node_modules/safe-buffer/.travis.yml
+11 error A  node_modules/safe-buffer/LICENSE
+11 error A  node_modules/safe-buffer/README.md
+11 error A  node_modules/safe-buffer/index.js
+11 error A  node_modules/safe-buffer/package.json
+11 error A  node_modules/safe-buffer/test.js
+11 error A  node_modules/send/HISTORY.md
+11 error A  node_modules/send/LICENSE
+11 error A  node_modules/send/README.md
+11 error A  node_modules/send/index.js
+11 error A  node_modules/send/package.json
+11 error A  node_modules/serve-static/HISTORY.md
+11 error A  node_modules/serve-static/LICENSE
+11 error A  node_modules/serve-static/README.md
+11 error A  node_modules/serve-static/index.js
+11 error A  node_modules/serve-static/package.json
+11 error A  node_modules/setprototypeof/LICENSE
+11 error A  node_modules/setprototypeof/README.md
+11 error A  node_modules/setprototypeof/index.js
+11 error A  node_modules/setprototypeof/package.json
+11 error A  node_modules/socket.io-adapter/.npmignore
+11 error A  node_modules/socket.io-adapter/LICENSE
+11 error A  node_modules/socket.io-adapter/Readme.md
+11 error A  node_modules/socket.io-adapter/index.js
+11 error A  node_modules/socket.io-adapter/package.json
+11 error A  node_modules/socket.io-client/LICENSE
+11 error A  node_modules/socket.io-client/README.md
+11 error A  node_modules/socket.io-client/dist/socket.io.js
+11 error A  node_modules/socket.io-client/dist/socket.io.js.map
+11 error A  node_modules/socket.io-client/dist/socket.io.slim.js
+11 error A  node_modules/socket.io-client/dist/socket.io.slim.js.map
+11 error A  node_modules/socket.io-client/lib/index.js
+11 error A  node_modules/socket.io-client/lib/manager.js
+11 error A  node_modules/socket.io-client/lib/on.js
+11 error A  node_modules/socket.io-client/lib/socket.js
+11 error A  node_modules/socket.io-client/lib/url.js
+11 error A  node_modules/socket.io-client/node_modules/debug/.coveralls.yml
+11 error A  node_modules/socket.io-client/node_modules/debug/.eslintrc
+11 error A  node_modules/socket.io-client/node_modules/debug/.npmignore
+11 error A  node_modules/socket.io-client/node_modules/debug/.travis.yml
+11 error A  node_modules/socket.io-client/node_modules/debug/CHANGELOG.md
+11 error A  node_modules/socket.io-client/node_modules/debug/LICENSE
+11 error A  node_modules/socket.io-client/node_modules/debug/Makefile
+11 error A  node_modules/socket.io-client/node_modules/debug/README.md
+11 error A  node_modules/socket.io-client/node_modules/debug/component.json
+11 error A  node_modules/socket.io-client/node_modules/debug/karma.conf.js
+11 error A  node_modules/socket.io-client/node_modules/debug/node.js
+11 error A  node_modules/socket.io-client/node_modules/debug/package.json
+11 error A  node_modules/socket.io-client/node_modules/debug/src/browser.js
+11 error A  node_modules/socket.io-client/node_modules/debug/src/debug.js
+11 error A  node_modules/socket.io-client/node_modules/debug/src/index.js
+11 error A  node_modules/socket.io-client/node_modules/debug/src/inspector-log.js
+11 error A  node_modules/socket.io-client/node_modules/debug/src/node.js
+11 error A  node_modules/socket.io-client/node_modules/ms/index.js
+11 error A  node_modules/socket.io-client/node_modules/ms/license.md
+11 error A  node_modules/socket.io-client/node_modules/ms/package.json
+11 error A  node_modules/socket.io-client/node_modules/ms/readme.md
+11 error A  node_modules/socket.io-client/package.json
+11 error A  node_modules/socket.io-parser/LICENSE
+11 error A  node_modules/socket.io-parser/Readme.md
+11 error A  node_modules/socket.io-parser/binary.js
+11 error A  node_modules/socket.io-parser/index.js
+11 error A  node_modules/socket.io-parser/is-buffer.js
+11 error A  node_modules/socket.io-parser/node_modules/debug/.coveralls.yml
+11 error A  node_modules/socket.io-parser/node_modules/debug/.eslintrc
+11 error A  node_modules/socket.io-parser/node_modules/debug/.npmignore
+11 error A  node_modules/socket.io-parser/node_modules/debug/.travis.yml
+11 error A  node_modules/socket.io-parser/node_modules/debug/CHANGELOG.md
+11 error A  node_modules/socket.io-parser/node_modules/debug/LICENSE
+11 error A  node_modules/socket.io-parser/node_modules/debug/Makefile
+11 error A  node_modules/socket.io-parser/node_modules/debug/README.md
+11 error A  node_modules/socket.io-parser/node_modules/debug/karma.conf.js
+11 error A  node_modules/socket.io-parser/node_modules/debug/node.js
+11 error A  node_modules/socket.io-parser/node_modules/debug/package.json
+11 error A  node_modules/socket.io-parser/node_modules/debug/src/browser.js
+11 error A  node_modules/socket.io-parser/node_modules/debug/src/debug.js
+11 error A  node_modules/socket.io-parser/node_modules/debug/src/index.js
+11 error A  node_modules/socket.io-parser/node_modules/debug/src/node.js
+11 error A  node_modules/socket.io-parser/node_modules/ms/index.js
+11 error A  node_modules/socket.io-parser/node_modules/ms/license.md
+11 error A  node_modules/socket.io-parser/node_modules/ms/package.json
+11 error A  node_modules/socket.io-parser/node_modules/ms/readme.md
+11 error A  node_modules/socket.io-parser/package.json
+11 error A  node_modules/socket.io/LICENSE
+11 error A  node_modules/socket.io/Readme.md
+11 error A  node_modules/socket.io/lib/client.js
+11 error A  node_modules/socket.io/lib/index.js
+11 error A  node_modules/socket.io/lib/namespace.js
+11 error A  node_modules/socket.io/lib/socket.js
+11 error A  node_modules/socket.io/node_modules/debug/.coveralls.yml
+11 error A  node_modules/socket.io/node_modules/debug/.eslintrc
+11 error A  node_modules/socket.io/node_modules/debug/.npmignore
+11 error A  node_modules/socket.io/node_modules/debug/.travis.yml
+11 error A  node_modules/socket.io/node_modules/debug/CHANGELOG.md
+11 error A  node_modules/socket.io/node_modules/debug/LICENSE
+11 error A  node_modules/socket.io/node_modules/debug/Makefile
+11 error A  node_modules/socket.io/node_modules/debug/README.md
+11 error A  node_modules/socket.io/node_modules/debug/component.json
+11 error A  node_modules/socket.io/node_modules/debug/karma.conf.js
+11 error A  node_modules/socket.io/node_modules/debug/node.js
+11 error A  node_modules/socket.io/node_modules/debug/package.json
+11 error A  node_modules/socket.io/node_modules/debug/src/browser.js
+11 error A  node_modules/socket.io/node_modules/debug/src/debug.js
+11 error A  node_modules/socket.io/node_modules/debug/src/index.js
+11 error A  node_modules/socket.io/node_modules/debug/src/inspector-log.js
+11 error A  node_modules/socket.io/node_modules/debug/src/node.js
+11 error A  node_modules/socket.io/node_modules/ms/index.js
+11 error A  node_modules/socket.io/node_modules/ms/license.md
+11 error A  node_modules/socket.io/node_modules/ms/package.json
+11 error A  node_modules/socket.io/node_modules/ms/readme.md
+11 error A  node_modules/socket.io/package.json
+11 error A  node_modules/statuses/HISTORY.md
+11 error A  node_modules/statuses/LICENSE
+11 error A  node_modules/statuses/README.md
+11 error A  node_modules/statuses/codes.json
+11 error A  node_modules/statuses/index.js
+11 error A  node_modules/statuses/package.json
+11 error A  node_modules/to-array/.npmignore
+11 error A  node_modules/to-array/LICENCE
+11 error A  node_modules/to-array/README.md
+11 error A  node_modules/to-array/index.js
+11 error A  node_modules/to-array/package.json
+11 error A  node_modules/type-is/HISTORY.md
+11 error A  node_modules/type-is/LICENSE
+11 error A  node_modules/type-is/README.md
+11 error A  node_modules/type-is/index.js
+11 error A  node_modules/type-is/package.json
+11 error A  node_modules/ultron/LICENSE
+11 error A  node_modules/ultron/README.md
+11 error A  node_modules/ultron/index.js
+11 error A  node_modules/ultron/package.json
+11 error A  node_modules/unpipe/HISTORY.md
+11 error A  node_modules/unpipe/LICENSE
+11 error A  node_modules/unpipe/README.md
+11 error A  node_modules/unpipe/index.js
+11 error A  node_modules/unpipe/package.json
+11 error A  node_modules/utils-merge/.travis.yml
+11 error A  node_modules/utils-merge/LICENSE
+11 error A  node_modules/utils-merge/README.md
+11 error A  node_modules/utils-merge/index.js
+11 error A  node_modules/utils-merge/package.json
+11 error A  node_modules/uws/LICENSE
+11 error A  node_modules/uws/README.md
+11 error A  node_modules/uws/binding.gyp
+11 error A  node_modules/uws/build_log.txt
+11 error A  node_modules/uws/package.json
+11 error A  node_modules/uws/src/Asio.h
+11 error A  node_modules/uws/src/Backend.h
+11 error A  node_modules/uws/src/Epoll.cpp
+11 error A  node_modules/uws/src/Epoll.h
+11 error A  node_modules/uws/src/Extensions.cpp
+11 error A  node_modules/uws/src/Extensions.h
+11 error A  node_modules/uws/src/Group.cpp
+11 error A  node_modules/uws/src/Group.h
+11 error A  node_modules/uws/src/HTTPSocket.cpp
+11 error A  node_modules/uws/src/HTTPSocket.h
+11 error A  node_modules/uws/src/Hub.cpp
+11 error A  node_modules/uws/src/Hub.h
+11 error A  node_modules/uws/src/Libuv.h
+11 error A  node_modules/uws/src/Networking.cpp
+11 error A  node_modules/uws/src/Networking.h
+11 error A  node_modules/uws/src/Node.cpp
+11 error A  node_modules/uws/src/Node.h
+11 error A  node_modules/uws/src/Socket.cpp
+11 error A  node_modules/uws/src/Socket.h
+11 error A  node_modules/uws/src/WebSocket.cpp
+11 error A  node_modules/uws/src/WebSocket.h
+11 error A  node_modules/uws/src/WebSocketProtocol.h
+11 error A  node_modules/uws/src/addon.cpp
+11 error A  node_modules/uws/src/addon.h
+11 error A  node_modules/uws/src/http.h
+11 error A  node_modules/uws/src/uWS.h
+11 error A  node_modules/uws/uws.js
+11 error A  node_modules/uws/uws_darwin_46.node
+11 error A  node_modules/uws/uws_darwin_47.node
+11 error A  node_modules/uws/uws_darwin_48.node
+11 error A  node_modules/uws/uws_darwin_51.node
+11 error A  node_modules/uws/uws_darwin_57.node
+11 error A  node_modules/uws/uws_darwin_59.node
+11 error A  node_modules/uws/uws_linux_46.node
+11 error A  node_modules/uws/uws_linux_47.node
+11 error A  node_modules/uws/uws_linux_48.node
+11 error A  node_modules/uws/uws_linux_51.node
+11 error A  node_modules/uws/uws_linux_57.node
+11 error A  node_modules/uws/uws_linux_59.node
+11 error A  node_modules/uws/uws_win32_48.node
+11 error A  node_modules/uws/uws_win32_51.node
+11 error A  node_modules/uws/uws_win32_57.node
+11 error A  node_modules/uws/uws_win32_59.node
+11 error A  node_modules/vary/HISTORY.md
+11 error A  node_modules/vary/LICENSE
+11 error A  node_modules/vary/README.md
+11 error A  node_modules/vary/index.js
+11 error A  node_modules/vary/package.json
+11 error A  node_modules/ws/LICENSE
+11 error A  node_modules/ws/README.md
+11 error A  node_modules/ws/index.js
+11 error A  node_modules/ws/lib/.DS_Store
+11 error A  node_modules/ws/lib/BufferUtil.js
+11 error A  node_modules/ws/lib/Constants.js
+11 error A  node_modules/ws/lib/ErrorCodes.js
+11 error A  node_modules/ws/lib/EventTarget.js
+11 error A  node_modules/ws/lib/Extensions.js
+11 error A  node_modules/ws/lib/PerMessageDeflate.js
+11 error A  node_modules/ws/lib/Receiver.js
+11 error A  node_modules/ws/lib/Sender.js
+11 error A  node_modules/ws/lib/Validation.js
+11 error A  node_modules/ws/lib/WebSocket.js
+11 error A  node_modules/ws/lib/WebSocketServer.js
+11 error A  node_modules/ws/package.json
+11 error A  node_modules/xmlhttprequest-ssl/LICENSE
+11 error A  node_modules/xmlhttprequest-ssl/README.md
+11 error A  node_modules/xmlhttprequest-ssl/autotest.watchr
+11 error A  node_modules/xmlhttprequest-ssl/example/demo.js
+11 error A  node_modules/xmlhttprequest-ssl/lib/XMLHttpRequest.js
+11 error A  node_modules/xmlhttprequest-ssl/package.json
+11 error A  node_modules/xmlhttprequest-ssl/tests/test-constants.js
+11 error A  node_modules/xmlhttprequest-ssl/tests/test-events.js
+11 error A  node_modules/xmlhttprequest-ssl/tests/test-exceptions.js
+11 error A  node_modules/xmlhttprequest-ssl/tests/test-headers.js
+11 error A  node_modules/xmlhttprequest-ssl/tests/test-redirect-302.js
+11 error A  node_modules/xmlhttprequest-ssl/tests/test-redirect-303.js
+11 error A  node_modules/xmlhttprequest-ssl/tests/test-redirect-307.js
+11 error A  node_modules/xmlhttprequest-ssl/tests/test-request-methods.js
+11 error A  node_modules/xmlhttprequest-ssl/tests/test-request-protocols.js
+11 error A  node_modules/xmlhttprequest-ssl/tests/testdata.txt
+11 error A  node_modules/yeast/LICENSE
+11 error A  node_modules/yeast/README.md
+11 error A  node_modules/yeast/index.js
+11 error A  node_modules/yeast/package.json
+11 error AM package.json
+12 error If you need help, you may report this error at:
+12 error     <https://github.com/npm/npm/issues>
+13 verbose exit [ 1, true ]
